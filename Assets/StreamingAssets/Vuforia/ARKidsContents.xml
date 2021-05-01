@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Taxi" size="7.514166 11.535832" />
+    <ImageTarget name="Bus" size="7.514166 11.535832" />
+    <ImageTarget name="Car" size="7.514166 11.535832" />
+    <ImageTarget name="PoliceCar" size="7.514166 11.535832" />
+    <ImageTarget name="Zebra" size="7.514166 11.535832" />
+    <ImageTarget name="Camel" size="7.514166 11.535832" />
+    <ImageTarget name="Tiger" size="7.514166 11.535832" />
+    <ImageTarget name="Turtle" size="7.514166 11.535832" />
+    <ImageTarget name="Rhinoceros" size="7.514166 11.535832" />
+    <ImageTarget name="penguin" size="7.514166 11.535832" />
+    <ImageTarget name="Horse" size="7.514166 11.535832" />
+    <ImageTarget name="Chick" size="7.514166 11.535832" />
+    <ImageTarget name="Pig" size="7.514166 11.535832" />
+    <ImageTarget name="Cat" size="7.514166 11.535832" />
+    <ImageTarget name="Dog" size="7.514166 11.535832" />
+    <ImageTarget name="Elephant" size="7.514166 11.535832" />
+    <ImageTarget name="India" size="75.141663 115.358330" />
+    <ImageTarget name="Brazil" size="75.141663 115.358330" />
+    <ImageTarget name="Spain" size="75.141663 115.358330" />
+    <ImageTarget name="France" size="75.141663 115.358330" />
+    <ImageTarget name="England" size="75.141663 115.358330" />
+    <ImageTarget name="China" size="75.141663 115.358330" />
+    <ImageTarget name="America" size="75.141663 115.358330" />
+    <ImageTarget name="Korea" size="75.141663 115.358330" />
+    <ImageTarget name="Orange" size="75.141663 115.358330" />
+    <ImageTarget name="Apple" size="75.141663 115.358330" />
+    <ImageTarget name="Strawberry" size="75.141663 115.358330" />
+    <ImageTarget name="Kiwi" size="75.141663 115.358330" />
+    <ImageTarget name="grape" size="75.141663 115.358330" />
+    <ImageTarget name="Coconut" size="75.141663 115.358330" />
+    <ImageTarget name="Banana" size="75.141663 115.358330" />
+  </Tracking>
+</QCARConfig>
